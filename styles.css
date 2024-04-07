@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+#weather-widget {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+#weather-widget h2 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#weather-info {
+  text-align: center;
+}
+
+#weather-info p {
+  margin-bottom: 5px;
+}
